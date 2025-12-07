@@ -27,15 +27,6 @@
 
 ---
 
-## 🏆 Featured Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Name 1](Your_Link_Here)** | 💡 One sentence description of the problem it solves. | <img src="https://skillicons.dev/icons?i=python,pytorch" height="20"/> |
-| **[Project Name 2](Your_Link_Here)** | ⚡ Focused on performance, agents, or unique architecture. | <img src="https://skillicons.dev/icons?i=flutter,firebase" height="20"/> |
-| **[Project Name 3](Your_Link_Here)** | 🎨 Something visual, complex, or highly technical. | <img src="https://skillicons.dev/icons?i=react,nodejs" height="20"/> |
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -86,10 +77,6 @@
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CholaGanesh05&theme=github_dark" width="800" />
-
-<br/>
-
-<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 
 </div>
 
