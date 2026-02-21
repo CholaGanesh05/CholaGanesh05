@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58&descColor=a0c4ff" alt="Header Banner — Chola Chetan Chukkala | AI Researcher • AI Engineer • Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header Banner — Chola Chetan Chukkala | AI Researcher • AI Engineer • Software Developer"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Researching+the+Frontiers+of+AI+%F0%9F%A7%A0;Building+Intelligent+Systems+from+Scratch+%F0%9F%94%AC;Fine-tuning+LLMs+%7C+Multimodal+AI+%7C+Agents+%F0%9F%A4%96;Where+Research+Meets+Engineering+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=D4732A&center=true&vCenter=true&width=700&lines=Researching+the+Frontiers+of+AI+%F0%9F%A7%A0;Building+Intelligent+Systems+from+Scratch+%F0%9F%94%AC;Fine-tuning+LLMs+%7C+Multimodal+AI+%7C+Agents+%F0%9F%A4%96;Where+Research+Meets+Engineering+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,8 +52,8 @@ class CholaChetan:
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/CholaGanesh05?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/CholaGanesh05)
-[![Profile Views](https://komarev.com/ghpvc/?username=CholaGanesh05&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/CholaGanesh05)
+[![GitHub followers](https://img.shields.io/github/followers/CholaGanesh05?label=Followers&style=for-the-badge&color=C4621A&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/CholaGanesh05)
+[![Profile Views](https://komarev.com/ghpvc/?username=CholaGanesh05&style=for-the-badge&color=C4621A&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/CholaGanesh05)
 
 </div>
 
@@ -179,15 +179,15 @@ class CholaChetan:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CholaGanesh05&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="170" alt="Chola Chetan's GitHub Stats — total commits, PRs, issues, stars and contributions"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CholaGanesh05&show_icons=true&theme=github_dark&hide_border=true&title_color=D4732A&icon_color=D4732A&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="170" alt="Chola Chetan's GitHub Stats — total commits, PRs, issues, stars and contributions"/>
 
 &nbsp;&nbsp;
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CholaGanesh05&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" alt="Chola Chetan's Top Programming Languages — Python, JavaScript, Dart, Java and more"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CholaGanesh05&layout=compact&theme=github_dark&hide_border=true&title_color=D4732A&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" alt="Chola Chetan's Top Programming Languages — Python, JavaScript, Dart, Java and more"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CholaGanesh05&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" height="185" alt="Chola Chetan's GitHub Contribution Streak — current streak and longest streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CholaGanesh05&theme=dark&hide_border=true&ring=D4732A&fire=D4732A&currStreakLabel=D4732A&sideLabels=D4732A&dates=c9d1d9" height="185" alt="Chola Chetan's GitHub Contribution Streak — current streak and longest streak"/>
 
 <br/><br/>
 
@@ -197,27 +197,27 @@ class CholaChetan:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CholaGanesh05&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Chola Chetan's GitHub Trophies — achievements across commits, repositories, stars, followers and more" width="100%"/>
-
-</div>
-
----
-
 ## 🔬 Research Interests
 
+> *Actively exploring frontier areas where AI is being reinvented*
+
 <div align="center">
 
-| 🧠 Large Language Models | 👁️ Multimodal AI | 🤖 Agentic Systems |
+| 🧠 Large Language Models | 📦 Small Language Models | 🤖 Agentic AI |
 |:---:|:---:|:---:|
-| Fine-tuning, RLHF, alignment, efficient inference, RAG | Vision-Language Models, image-text grounding | Tool-use agents, planning, multi-agent frameworks |
+| Fine-tuning, RLHF, alignment, RAG, efficient inference | Phi, Gemma, TinyLlama — on-device & edge deployment | Tool-use, planning, memory, multi-agent orchestration |
 
-| 📐 NLP & Representation Learning | ⚡ Efficient ML | 🔐 AI Safety & Alignment |
+| 👁️ Multimodal AI | 🌊 State Space Models | 🔀 Hybrid Architectures |
 |:---:|:---:|:---:|
-| Transformers, embeddings, semantic understanding | Quantization, LoRA, knowledge distillation | Robustness, interpretability, responsible deployment |
+| Vision-Language Models, audio-text, cross-modal grounding | Mamba, S4 — efficient long-context sequence modelling | Transformer + SSM hybrids, MoE, sparse attention |
+
+| 🌐 Social Networks & AI | 💚 Social Wellbeing & AI | 🔐 AI Safety & Alignment |
+|:---:|:---:|:---:|
+| Graph neural networks, community detection, misinformation | Mental health AI, assistive tech, human-centered design | Robustness, interpretability, responsible deployment |
+
+| 📐 NLP & Representation Learning | ⚡ Efficient ML |
+|:---:|:---:|
+| Transformers, embeddings, semantic understanding | Quantization, LoRA/QLoRA, knowledge distillation |
 
 </div>
 
@@ -231,7 +231,7 @@ MIT License — feel free to use, adapt, and build upon this work with attributi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer wave decoration"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=120&section=footer&animation=fadeIn" alt="Footer wave decoration"/>
 
 <br/>
 
