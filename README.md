@@ -1,198 +1,87 @@
-# Academic Text Humanizer with Length Control
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=230&section=header&text=Chola%20Chetan%20Chukkala&fontSize=45&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Software%20Development%20•%20Researcher&descSize=18" />
+</div>
 
-## Overview
+<div align="center">
 
-This project implements a fine-tuned Llama 3.1 8B model specialized in humanizing academic text while preserving LaTeX mathematical expressions and maintaining precise length control. The model converts stiff, AI-generated, or overly formal academic writing into natural, fluent English suitable for research papers, theses, and scholarly documents.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=0E75B6&center=true&vCenter=true&width=600&lines=Learning+•+Building+•+Exploring+AI;Creating+Real-World+Solutions;Software+Developer+%26+Researcher;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-## Key Features
+</div>
 
-- **LaTeX Preservation**: Automatically masks and restores mathematical formulas, citations, and LaTeX commands during processing
-- **Length Control**: Precise output length management with ratios from 0.8x to 1.2x relative to input text
-- **Academic Focus**: Optimized for research writing, maintaining scholarly tone and terminology
-- **Efficient Inference**: Uses 4-bit quantization for fast, memory-efficient text processing
-- **Web Interface**: Includes a Gradio-based UI for easy interaction
+---
 
-## How It Was Built
+<div align="center">
 
-### 1. Base Model
+# Hi 👋, I'm Chola Chetan Chukkala
+### 🚀 Learning, building, and exploring AI
 
-| Property | Details |
-|----------|---------|
-| **Model** | Llama 3.1 8B (unsloth/llama-3.1-8b-bnb-4bit) |
-| **Framework** | Unsloth for efficient fine-tuning |
-| **Quantization** | 4-bit quantization to reduce memory usage |
+<img src="https://komarev.com/ghpvc/?username=CholaGanesh05&label=Profile%20views&color=0e75b6&style=flat" />
 
-### 2. Dataset Preparation
+<br/>
 
-- **Source**: Hugging Face `humarin/chatgpt-paraphrases` dataset (50,000 samples)
-- **Processing**:
-  - Calculated length ratios between original and paraphrased text
-  - Added special tokens `<len_0.8>` through `<len_1.2>` for length control
-  - Formatted as instruction-response pairs for supervised fine-tuning
+| **About Me** | **Connect** |
+| :--- | :--- |
+| 🔭 Working on **Multimodal AI & Agent Systems**<br/>👯 Collaborating on **Open Source Projects**<br/>⚡ Fun fact: **I learn faster when I build things.**<br/>📄 **[View My Resume](https://drive.google.com/drive/folders/13t6xZRkvtisErOi2_hUqZElSHGn38yPP?usp=drive_link)** | <div align="center"><a href="https://github.com/CholaGanesh05"><img src="https://skillicons.dev/icons?i=github" height="30"></a> <a href="https://www.linkedin.com/in/cholachetan24"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a> <a href="mailto:vpscholachetan24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"></a><br/><a href="https://www.kaggle.com/cholachetanchukkala"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30"></a></div> |
 
-### 3. Fine-Tuning Process
+</div>
 
-| Parameter | Value |
-|-----------|-------|
-| **Method** | LoRA (Low-Rank Adaptation) with rank 16 |
-| **Training Steps** | 500 steps with batch size 16 |
-| **Hardware** | Optimized for T4 GPU (Colab), ~1–2 hours training time |
-| **Final Loss** | ~0.4 |
-| **Packing** | Enabled sequence packing for 2x training speed |
+---
 
-### 4. Special Features Implementation
+## 🛠️ Tech Stack & Tools
 
-- **LaTeX Masking**: Advanced regex patterns to identify and protect mathematical content
-- **Length Constraint Decoding**: Dynamic max token limits based on target ratios
-- **Temperature Sampling**: 0.7 with top-p 0.9 for natural text generation
+<div align="center">
 
-### 5. Export and Deployment
+### 🧩 Languages
+<img src="https://skillicons.dev/icons?i=python,c,java,dart,js,haskell,matlab" height="50" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css" height="50" alt="Web Basics" />
 
-- **GGUF Export**: Converted to 4-bit GGUF format for local inference
-- **Ollama Integration**: Created Modelfile for easy Ollama deployment
-- **Gradio Interface**: Web-based UI with slider controls for length adjustment
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv" height="50" alt="AI Core" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50" alt="sklearn" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="50" alt="pandas" />
+<img src="https://cdn.simpleicons.org/numpy/4D77CF" height="50" alt="numpy" />
+<img src="https://cdn.simpleicons.org/anaconda/44A833" height="50" alt="anaconda" />
+<br/>
+<img src="https://cdn.simpleicons.org/huggingface/FFCC33" height="50" alt="huggingface" />
+<img src="https://cdn.simpleicons.org/langchain" height="50" alt="langchain" />
+<img src="https://cdn.simpleicons.org/ollama" height="50" alt="ollama" />
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="50" alt="mlflow" />
 
-## Model Download
+### 🧰 Software Development
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,django,fastapi,flask,tailwind" height="50" alt="App Dev" />
+<img src="https://cdn.simpleicons.org/gradio/FF7C00" height="50" alt="gradio" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="50" alt="streamlit" />
 
-Download the trained model (GGUF format) from this Google Drive link:
+### 🧪 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,linux,docker,aws,jenkins,firebase" height="50" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="50" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop" height="50" alt="Design" />
 
-**[INSERT DRIVE LINK HERE]**
+</div>
 
-The model file is: `humanizer_gguf/unsloth.Q4_K_M.gguf`
+---
 
-## Usage
+## 📊 GitHub Analytics
 
-### Option 1: Run the Jupyter Notebook
+<div align="center">
+  
+| **GitHub Stats** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CholaGanesh05&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=999" height="160" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CholaGanesh05&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=999" height="160" /> |
 
-1. Open `Academic_Humanizer.ipynb` in Google Colab or Jupyter
-2. Install dependencies:
-   ```bash
-   pip install -q unsloth[colab-new] xformers trl peft accelerate bitsandbytes datasets gradio
-   ```
-3. Run the inference cells to test the model
-4. Launch the Gradio interface for interactive use
+<br/>
 
-### Option 2: Local Ollama Deployment
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CholaGanesh05&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" height="180" />
 
-1. Install Ollama from https://ollama.ai/
-2. Download the GGUF model from the Drive link above
-3. Create a `Modelfile` with the following content:
-   ```
-   FROM ./humanizer_gguf/unsloth.Q4_K_M.gguf
-   PARAMETER temperature 0.7
-   PARAMETER top_p 0.9
-   PARAMETER stop "<|eot_id|>"
-   PARAMETER stop "<|start_header_id|>"
-   PARAMETER stop "<|end_header_id|>"
+<br/>
 
-   TEMPLATE """
-   <|begin_of_text|><|start_header_id|>system<|end_header_id|>
-   Humanize the following text while strictly preserving LaTeX and formatting. Match the requested length ratio (0.8x to 1.2x).<|eot_id|>
-   <|start_header_id|>user<|end_header_id|>
-   {{{ .Prompt }}}<|eot_id|>
-   <|start_header_id|>assistant<|end_header_id|>
-   """
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CholaGanesh05&theme=github_dark" width="800" />
 
-   SYSTEM """You are a professional academic humanizer. You convert AI-generated or stiff text into natural, fluent English. You must never change LaTeX math ($...$), citations, or references."""
-   ```
-4. Run:
-   ```bash
-   ollama create academic-humanizer -f Modelfile
-   ```
-5. Use:
-   ```bash
-   ollama run academic-humanizer
-   ```
+</div>
 
-### Option 3: Python API
+---
 
-```python
-from unsloth import FastLanguageModel
-import torch
-
-# Load model
-model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name="path/to/saved/model",  # Use local path or Hugging Face repo
-    max_seq_length=2048,
-    dtype=None,
-    load_in_4bit=True,
-)
-
-# Humanize text
-def humanize_text(text, ratio=1.0):
-    # Implementation from notebook
-    pass
-```
-
-## Example
-
-**Input (Stiff Academic Text):**
-```
-The implementation of the proposed algorithm facilitates a significant reduction in
-computational overhead, especially when processing high-dimensional datasets within
-a distributed framework as shown in \cite{paper2024}.
-```
-
-**Output (Humanized, 1.0x ratio):**
-```
-Our algorithm significantly cuts down on computing costs, particularly when handling
-complex, high-dimensional data in distributed systems, as demonstrated in \cite{paper2024}.
-```
-
-## Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| **Training Time** | ~90 minutes on T4 GPU |
-| **Model Size** | ~4.5 GB (4-bit quantized) |
-| **Inference Speed** | ~20–30 tokens/second on consumer GPU |
-| **Length Accuracy** | ±5% of target ratio |
-| **LaTeX Preservation** | 100% (tested on academic papers) |
-
-## Future Scope
-
-### Multi-Tone Support
-
-- **Professional**: Current implementation (formal academic)
-- **Informal**: Casual, conversational academic writing
-- **Technical**: Highly specialized jargon for specific fields
-- **Educational**: Simplified explanations for students
-- **Review-Style**: Critical analysis tone for literature reviews
-
-### Advanced Features
-
-- **Domain Adaptation**: Fine-tune for specific academic fields (CS, Biology, Physics, etc.)
-- **Citation Style Control**: Automatic APA/MLA/Chicago formatting
-- **Multi-Language Support**: Extend to other academic languages
-- **Quality Metrics**: Integrated BLEU/ROUGE scoring for output assessment
-- **Batch Processing**: Handle multiple documents simultaneously
-- **API Service**: Deploy as REST API for integration with writing tools
-
-### Technical Improvements
-
-- **Larger Base Models**: Scale to 70B+ parameters for better quality
-- **Reinforcement Learning**: Use RLHF for tone and quality preferences
-- **Hybrid Approaches**: Combine with smaller specialized models
-- **Real-time Collaboration**: Integration with Overleaf/Google Docs
-
-## Dependencies
-
-- Python 3.8+
-- PyTorch 2.0+
-- Transformers 4.30+
-- Unsloth
-- PEFT
-- BitsAndBytes
-- Datasets
-- Gradio
-- Accelerate
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or collaborations, feel free to reach out!
-
-📧 **vpscholachetan24@gmail.com**
+<div align="center">
+  <sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+</div>
