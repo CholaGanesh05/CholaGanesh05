@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header Banner — Chola Chetan Chukkala | AI Researcher • AI Engineer • Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header Banner — Chola Chetan Chukkala | AI Researcher • AI Engineer • Software Developer"/>
 
 </div>
 
@@ -231,7 +231,7 @@ MIT License — feel free to use, adapt, and build upon this work with attributi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=120&section=footer&animation=fadeIn" alt="Footer wave decoration"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=120&section=footer&animation=fadeIn" alt="Footer wave decoration"/>
 
 <br/>
 
