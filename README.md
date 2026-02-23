@@ -94,9 +94,9 @@ class CholaChetan:
 
 **🤗 LLM & Foundation Models**
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC33?style=flat-square&logo=huggingface&logoColor=black&labelColor=0d1117)](https://huggingface.co "Transformers, datasets, and model hub")
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117)](https://langchain.com "LLM orchestration and agentic pipelines")
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&labelColor=0d1117)](https://ollama.ai "Local LLM inference and deployment")
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-d4a800?style=flat-square&logo=huggingface&logoColor=white&labelColor=0d1117)](https://huggingface.co "Transformers, datasets, and model hub")
+[![LangChain](https://img.shields.io/badge/LangChain-2ea87e?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117)](https://langchain.com "LLM orchestration and agentic pipelines")
+[![Ollama](https://img.shields.io/badge/Ollama-6b7280?style=flat-square&logo=ollama&logoColor=white&labelColor=0d1117)](https://ollama.ai "Local LLM inference and deployment")
 [![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)](https://unsloth.ai "Efficient LLM fine-tuning with LoRA/QLoRA")
 [![PEFT](https://img.shields.io/badge/PEFT-8A2BE2?style=flat-square&logo=huggingface&logoColor=white&labelColor=0d1117)](https://huggingface.co/docs/peft "Parameter-efficient fine-tuning methods")
 
@@ -109,9 +109,9 @@ class CholaChetan:
 **📊 Data Science & ML Engineering**
 
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0d1117)](https://scikit-learn.org "Classical ML algorithms and evaluation pipelines")
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117)](https://pandas.pydata.org "Data wrangling and tabular analysis")
+[![Pandas](https://img.shields.io/badge/Pandas-6e5ebc?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117)](https://pandas.pydata.org "Data wrangling and tabular analysis")
 [![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white&labelColor=0d1117)](https://numpy.org "Numerical computing and matrix operations")
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117)](https://opencv.org "Computer vision and image processing")
+[![OpenCV](https://img.shields.io/badge/OpenCV-7C4DFF?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117)](https://opencv.org "Computer vision and image processing")
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=0d1117)](https://mlflow.org "ML experiment tracking and model registry")
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white&labelColor=0d1117)](https://anaconda.com "Python environment and package management")
 
@@ -121,11 +121,11 @@ class CholaChetan:
 **🧩 Programming Languages**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)](https://python.org "Primary language for AI/ML research")
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "Full-stack web and AI tool interfaces")
+[![JavaScript](https://img.shields.io/badge/JavaScript-c9a800?style=flat-square&logo=javascript&logoColor=white&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "Full-stack web and AI tool interfaces")
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)](https://java.com "Object-oriented programming and backend systems")
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)](https://en.wikipedia.org/wiki/C_(programming_language) "Systems programming and performance-critical code")
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117)](https://dart.dev "Cross-platform mobile application development")
-[![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=flat-square&logo=haskell&logoColor=white&labelColor=0d1117)](https://haskell.org "Functional programming and type-theoretic reasoning")
+[![Haskell](https://img.shields.io/badge/Haskell-7b6baa?style=flat-square&logo=haskell&logoColor=white&labelColor=0d1117)](https://haskell.org "Functional programming and type-theoretic reasoning")
 [![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white&labelColor=0d1117)](https://mathworks.com "Scientific computing and mathematical modelling")
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/HTML "Semantic web structure and markup")
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/CSS "Styling, animations and responsive design")
@@ -139,11 +139,11 @@ class CholaChetan:
 **🚀 Frameworks & Interfaces**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)](https://fastapi.tiangolo.com "High-performance async Python REST APIs")
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117)](https://flask.palletsprojects.com "Lightweight Python web microframework")
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0d1117)](https://djangoproject.com "Full-stack Python web framework")
+[![Flask](https://img.shields.io/badge/Flask-a8b2c1?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117)](https://flask.palletsprojects.com "Lightweight Python web microframework")
+[![Django](https://img.shields.io/badge/Django-2bba6e?style=flat-square&logo=django&logoColor=white&labelColor=0d1117)](https://djangoproject.com "Full-stack Python web framework")
 [![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white&labelColor=0d1117)](https://gradio.app "Rapid AI/ML demo and interactive UI builder")
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0d1117)](https://streamlit.io "Data apps and ML model dashboards")
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)](https://react.dev "Component-based modern frontend framework")
+[![React](https://img.shields.io/badge/React-00a8c9?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)](https://react.dev "Component-based modern frontend framework")
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)](https://nodejs.org "JavaScript runtime for scalable backend services")
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117)](https://flutter.dev "Cross-platform mobile apps with Dart")
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117)](https://tailwindcss.com "Utility-first CSS framework for rapid UI")
@@ -157,11 +157,11 @@ class CholaChetan:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)](https://mongodb.com "Flexible NoSQL document database")
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)](https://mysql.com "Open-source relational database management system")
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)](https://git-scm.com "Version control and collaborative development workflows")
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)](https://linux.org "Primary OS for development and server environments")
+[![Linux](https://img.shields.io/badge/Linux-c9a800?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)](https://linux.org "Primary OS for development and server environments")
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)](https://docker.com "Containerization for reproducible deployments")
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0d1117)](https://aws.amazon.com "Cloud infrastructure and scalable ML deployment")
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=0d1117)](https://jenkins.io "CI/CD pipeline automation and build systems")
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d1117)](https://firebase.google.com "Backend-as-a-service and real-time data sync")
+[![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white&labelColor=0d1117)](https://firebase.google.com "Backend-as-a-service and real-time data sync")
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0d1117)](https://figma.com "UI/UX design, wireframing and prototyping")
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&labelColor=0d1117)](https://adobe.com/products/photoshop.html "Digital image editing and visual design")
 
@@ -197,7 +197,7 @@ MIT License — feel free to use, adapt, and build upon this work with attributi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=150&section=footer&animation=fadeIn&desc=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great&descSize=14&descAlignY=75&descColor=F5C48A" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=150&section=footer&reversal=true&animation=fadeIn&desc=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great&descSize=14&descAlignY=75&descColor=F5C48A" alt="Footer"/>
 
 *"The goal of AI research is not to build systems that think like humans — it's to build systems that help humans think better."*
 
