@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=D4732A&center=true&vCenter=true&width=700&lines=Researching+the+Frontiers+of+AI+%F0%9F%A7%A0;Building+Intelligent+Systems+from+Scratch+%F0%9F%94%AC;Fine-tuning+LLMs+%7C+Multimodal+AI+%7C+Agents+%F0%9F%A4%96;Where+Research+Meets+Engineering+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D4732A&center=true&vCenter=true&width=500&lines=Building+AI+%F0%9F%A7%A0;Exploring+AI+%F0%9F%94%AC)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -14,10 +14,8 @@
 ```python
 class CholaChetan:
     name       = "Chola Chetan Chukkala"
-    roles      = ["AI Researcher", "AI Engineer",
-                  "Software Developer"]
     focus      = ["LLM Fine-tuning", "Multimodal AI",
-                  "Agentic Systems", "NLP", "Computer Vision"]
+                  "Agentic Systems", "AI Automation"]
     philosophy = "I learn fastest when I build things."
     goal       = "Contribute to frontier AI research"
     email      = "vpscholachetan24@gmail.com"
