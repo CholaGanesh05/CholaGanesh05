@@ -17,7 +17,7 @@ class CholaChetan:
     roles      = ["AI Researcher", "AI Engineer",
                   "Software Developer"]
     focus      = ["LLM Fine-tuning", "Multimodal AI",
-                  "Agentic Systems", "NLP"]
+                  "Agentic Systems", "NLP", "Computer Vision"]
     philosophy = "I learn fastest when I build things."
     goal       = "Contribute to frontier AI research"
     email      = "vpscholachetan24@gmail.com"
