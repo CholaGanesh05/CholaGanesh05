@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header"/>
+
+# Chola Chetan Chukkala
+### AI Researcher &nbsp;•&nbsp; Software Engineer
+
 </div>
 
 ---
@@ -195,9 +198,11 @@ MIT License — feel free to use, adapt, and build upon this work with attributi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=150&section=footer&reversal=true&desc=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great&descSize=14&descAlignY=75&descColor=F5C48A" alt="Footer"/>
+---
 
-*"Explore. Build. Grow. Give back to society"*
+*"Explore, Grow and Give back to the Society."*
+
+Thanks for visiting — let's build something great.
 
 [![Star my repos](https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CholaGanesh05?tab=repositories)
 
