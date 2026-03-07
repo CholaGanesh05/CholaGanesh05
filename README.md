@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D4732A&center=true&vCenter=true&width=500&lines=Building+AI+%F0%9F%A7%A0;Exploring+AI+%F0%9F%94%AC)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=250&section=header&text=Chola%20Chetan%20Chukkala&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=58&descColor=F5C48A" alt="Header"/>
 </div>
 
 ---
@@ -145,6 +143,7 @@ class CholaChetan:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)](https://nodejs.org "JavaScript runtime for scalable backend services")
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117)](https://flutter.dev "Cross-platform mobile apps with Dart")
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117)](https://tailwindcss.com "Utility-first CSS framework for rapid UI")
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://vercel.com "Frontend cloud platform for deployment and hosting")
 
 </td>
 <td valign="top" align="center">
@@ -154,6 +153,7 @@ class CholaChetan:
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)](https://postgresql.org "Advanced relational database for structured data")
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)](https://mongodb.com "Flexible NoSQL document database")
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)](https://mysql.com "Open-source relational database management system")
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117)](https://supabase.com "Open-source Firebase alternative with PostgreSQL backend")
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)](https://git-scm.com "Version control and collaborative development workflows")
 [![Linux](https://img.shields.io/badge/Linux-c9a800?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)](https://linux.org "Primary OS for development and server environments")
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)](https://docker.com "Containerization for reproducible deployments")
@@ -195,9 +195,9 @@ MIT License — feel free to use, adapt, and build upon this work with attributi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=150&section=footer&reversal=true&animation=fadeIn&desc=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great&descSize=14&descAlignY=75&descColor=F5C48A" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=150&section=footer&reversal=true&desc=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great&descSize=14&descAlignY=75&descColor=F5C48A" alt="Footer"/>
 
-*"The goal of AI research is not to build systems that think like humans — it's to build systems that help humans think better."*
+*"Explore. Build. Grow. Give back to society"*
 
 [![Star my repos](https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CholaGanesh05?tab=repositories)
 
