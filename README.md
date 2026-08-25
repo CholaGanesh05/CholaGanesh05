@@ -32,8 +32,6 @@ class CholaChetan:
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bHVtNzBxZGF1MXVkNnkxc2ZtaHZ4YWRoaXZlc3N6amlkOHl6biZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/CholaGanesh05?label=Followers&style=for-the-badge&color=C4621A&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/CholaGanesh05)
-
 </td>
 </tr></table>
 
@@ -104,7 +102,5 @@ class CholaChetan:
 <div align="center">
 
 *"Explore, Grow and Give back to the Society."*
-
-[![Star my repos](https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CholaGanesh05?tab=repositories)
 
 </div>
